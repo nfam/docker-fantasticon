@@ -1,2 +1,2 @@
 FROM node:lts
-RUN npm install -g fantasticon
+RUN npm -g install fantasticon@1.2.1
